@@ -20,6 +20,9 @@ I am passionate about web technologies, building WordPress websites for small bu
 - 🚀 Working towards becoming a Full-Stack Software Engineer
 - 🔍 Always exploring new technologies and best practices
 
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDB3ZnFxbnlkam1kMjB2cmJ2OWw1bjg1cWE1a2RweHVzaXY2d25kbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="280"/>
+
+
 ---
 
 ## 💻 Tech Stack
