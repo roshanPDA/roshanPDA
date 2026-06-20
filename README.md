@@ -1,6 +1,6 @@
 ## Hi I'm Roshan 👋
 
-# <div align="center">🚀 Aspiring Software Engineer 🚀</div>
+# <div align="center">🚀 Aspiring Fullstack Engineer 🚀</div>
 
 <div align="center">
 
@@ -12,7 +12,7 @@
 
 An experienced IT Support professional transitioning into Software Development.
 
-I am passionate about building WordPress websites for small businesses and helping them establish a strong online presence. I am continuously expanding my skills by learning modern web development technologies and frameworks.
+I am passionate about web technologies, building WordPress websites for small businesses and helping them establish a strong online presence. I am continuously expanding my skills by learning modern web development technologies and frameworks.
 
 - 🌐 Building WordPress websites for small businesses
 - 💡 Passionate about web development and problem-solving
@@ -22,13 +22,55 @@ I am passionate about building WordPress websites for small businesses and helpi
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
+
+<!--
+## 💻 Tech Stack
+
+### 🖥️ Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,angular,vue,tailwind,bootstrap,sass" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,java,python,dotnet" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+</p>
+
+### ☁️ Cloud & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,firebase" />
+</p>
+
+### 📱 Mobile Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,flutter,dart" />
+</p>
+
+### 🛠️ Tools & Others
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,postman,figma,photoshop,vscode,notion,redux" />
+</p>
+-->
 
 ### Current Skills
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,javascript" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
   <img src="https://skillicons.dev/icons?i=wordpress" />
+  <img src="https://cdn.simpleicons.org/elementor/92003B" width="48" height="48" alt="Elementor"/>
 </p>
 
 | Technology | Experience |
@@ -36,7 +78,9 @@ I am passionate about building WordPress websites for small businesses and helpi
 | HTML5 | ✔️ |
 | CSS3 | ✔️ |
 | JavaScript | ✔️ |
+| Mysql | ✔️ |
 | WordPress | ✔️ |
+| Elementor | ✔️ |
 
 ---
 
@@ -66,22 +110,37 @@ I am passionate about building WordPress websites for small businesses and helpi
 ### Planned Learning Path
 - [ ] React
 - [ ] Node.js
-- [ ] MySQL
+- [ ] Databases
 - [ ] Spring Boot
 - [ ] Git & GitHub
 - [ ] Docker
 - [ ] REST APIs
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=roshanPDA&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roshanPDAE&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roshanPDA&layout=compact)
 
+</div>
+-->
+  
+## 📊 GitHub Statistics
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=roshanPDA&theme=algolia" />
+</td>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshanPDA&theme=algolia&hide_border=true" />
+</td>
+</tr>
+</table>
 </div>
 
 ---
